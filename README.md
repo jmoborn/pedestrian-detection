@@ -2,6 +2,7 @@ Pedestrian Detection
 ====================
 
 Requires OpenCV and skimage
+Uses the INRIA dataset
 
 Training:
 ```
